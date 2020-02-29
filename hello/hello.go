@@ -1,5 +1,5 @@
 package hello
 
-func funcFromHello() {
-
+func funcFromHello() int {
+	return 100
 }

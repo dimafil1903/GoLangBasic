@@ -1,6 +1,6 @@
 package say
 
-func funcFromSay() string {
+func FuncFromSay() string {
 
 	return "I said"
 }
